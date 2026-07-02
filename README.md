@@ -82,6 +82,9 @@ sh dps_train.sh 2 <port>
 - `2`: number of GPUs
 - `<port>`: port number for distributed training
 
+Our trained weights [here](https://drive.google.com/drive/folders/1sdB-5179PzT9nBoQZ4xXQ2-rVlPHGesm?usp=drive_link).
+
+
 ## 4. Fine-tuning
 
 After decoder pretraining, fine-tune the model using `fine_unimatch_v2.py`. This step loads the decoder weights obtained from the pretraining stage above.
