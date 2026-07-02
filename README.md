@@ -95,7 +95,6 @@ sh fine_train.sh 2 <port>
 
 ## Notes
 
-- Make sure the config YAML paths (`configs/MaskFactory.yaml` / `configs/SegRCDB.yaml`) correctly point to the dataset directories described above.
 - Adjust the number of GPUs and port number in the shell scripts according to your environment.
 
 ## Acknowledge
