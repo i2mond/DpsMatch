@@ -84,7 +84,7 @@ sh dps_train.sh 2 <port>
 
 ## 4. Fine-tuning
 
-After decoder pretraining, fine-tune the model using `fine_unimatch_v2.py`.
+After decoder pretraining, fine-tune the model using `fine_unimatch_v2.py`. This step loads the decoder weights obtained from the pretraining stage above.
 
 ### Launching Fine-tuning (Distributed)
 
