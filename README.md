@@ -52,6 +52,8 @@ SegRCDB/
 └── txt/
 ```
 
+> Note: This was verified by actually running the generation code. The number of classes is 255 (background: 0, foreground: 1–245).
+
 For `MaskFactory/img`, `MaskFactory/mask`, `SegRCDB/image`, and `SegRCDB/mask`, files should be named sequentially, e.g.:
 
 ```
