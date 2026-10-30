@@ -1,4 +1,4 @@
-# (Under Review)Decoder Pre-training with Synthetic Images for Semi-supervised Semantic Segmentation
+# Decoder Pre-training with Synthetic Images for Semi-supervised Semantic Segmentation
 
 ## 1. Setup
 
